@@ -23,7 +23,7 @@ elif option == "What are Maps?":
         "population density, weather patterns, and more. Maps are widely used in education, navigation, "
         "and for planning purposes."
     )
-    st.image("https://en.wikipedia.org/wiki/Wikipedia:Featured_pictures/Diagrams,_drawings,_and_maps/Maps#/media/File:Shanghai_1935_S1_AMS-WO.jpg", 
+    st.image("https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Shanghai_1935_S1_AMS-WO.jpg/1280px-Shanghai_1935_S1_AMS-WO.jpg", 
              caption="Example of a world map")
 
 # Globes section
